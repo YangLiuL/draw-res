@@ -4,26 +4,134 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NGlnwNi6yZhj_H7E080w-1" value="总承包合同已评审" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="160" width="100" height="40" as="geometry" />
+        <mxCell id="NGlnwNi6yZhj_H7E080w-1" value="总承包合同已评审" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NGlnwNi6yZhj_H7E080w-2" value="总承包合同已登记" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="160" width="100" height="40" as="geometry" />
+        <mxCell id="NGlnwNi6yZhj_H7E080w-2" value="总承包合同已登记" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NGlnwNi6yZhj_H7E080w-3" value="总承包合同已交底" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="580" y="160" width="100" height="40" as="geometry" />
+        <mxCell id="NGlnwNi6yZhj_H7E080w-3" value="总承包合同已交底" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="580" y="50" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NGlnwNi6yZhj_H7E080w-6" value="总承包合同已发布执行" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="450" y="160" width="100" height="40" as="geometry" />
+        <mxCell id="NGlnwNi6yZhj_H7E080w-6" value="总承包合同已发布执行" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="450" y="50" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NGlnwNi6yZhj_H7E080w-7" value="总承包合同已解除登记" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="250" y="230" width="100" height="40" as="geometry" />
+        <mxCell id="NGlnwNi6yZhj_H7E080w-7" value="总承包合同已解除登记" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NGlnwNi6yZhj_H7E080w-8" value="总承包合同已废除登记" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="230" width="100" height="40" as="geometry" />
+        <mxCell id="NGlnwNi6yZhj_H7E080w-8" value="总承包合同已废除登记" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NGlnwNi6yZhj_H7E080w-10" value="总承包合同已用印" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="100" height="40" as="geometry" />
+        <mxCell id="NGlnwNi6yZhj_H7E080w-10" value="总承包合同已用印" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-11" value="总承包合同已评审" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="180" y="324" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-12" value="总承包合同已登记" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="324" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-13" value="总承包合同已交底" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="570" y="324" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-14" value="总承包合同已发布执行" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="324" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-15" value="总承包合同已解除登记" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="180" y="499" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-16" value="总承包合同已废除登记" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-17" value="总承包合同已用印" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="324" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-20" value="登记合同" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="293" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-21" value="合同评审" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="293" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-22" value="电子盖章" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="293" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-23" value="签订合同" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="293" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-25" value="废除登记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="470" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-26" value="解除登记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="470" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-27" value="项目部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-28" value="工程项目" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="264" width="20" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-33" value="印章" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="380" y="264" width="20" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-45" value="建设单位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="264" width="20" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-46" value="登记信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="264" width="20" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-47" value="登记信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="264" width="20" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-48" value="登记信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="490" y="264" width="20" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-49" value="登记信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="630" y="265" width="20" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-50" value="登记信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="440" width="20" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-51" value="登记信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="441" width="20" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-52" value="废除信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="441" width="20" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-53" value="总承包合同" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="305" y="375" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-54" value="实体盖章" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="263" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-55" value="总承包合同已法律审核" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-56" value="总承包合同已法律审核" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="499" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-57" value="法律审核" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="469" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-58" value="商务部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-59" value="法务部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="235" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-60" value="商务部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="439" y="260" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-61" value="项目部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="570" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-62" value="商务部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="439" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-63" value="商务部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGlnwNi6yZhj_H7E080w-64" value="法务部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="441" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
