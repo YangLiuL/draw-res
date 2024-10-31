@@ -4,20 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4at3JXw2Q7z8CmBnQLVK-50" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="30" y="160" width="550" height="360" as="geometry" />
+        <mxCell id="4at3JXw2Q7z8CmBnQLVK-50" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;labelBorderColor=#b1afaf;" vertex="1" parent="1">
+          <mxGeometry x="272" y="290" width="300" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Ja2gScva0mpdnXEOj0BG-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;组织&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillStyle=auto;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="300" width="50" height="50" as="geometry" />
+          <mxGeometry x="65" y="300" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ja2gScva0mpdnXEOj0BG-4" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;部门&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style: solid; font-size: 11px;&quot;&gt;&lt;div style=&quot;height: 2px; font-size: 11px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="180" y="210" width="50" height="40" as="geometry" />
+          <mxGeometry x="154" y="210" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ja2gScva0mpdnXEOj0BG-5" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;组织类型&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style: solid; font-size: 11px;&quot;&gt;&lt;div style=&quot;height: 2px; font-size: 11px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="90" y="210" width="50" height="40" as="geometry" />
+          <mxGeometry x="64" y="210" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ja2gScva0mpdnXEOj0BG-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;项目/工程&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="207" y="450" width="50" height="40" as="geometry" />
+          <mxGeometry x="207" y="350" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ja2gScva0mpdnXEOj0BG-7" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 8px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;合同&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style: solid; font-size: 8px;&quot;&gt;&lt;div style=&quot;height: 2px; font-size: 8px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="326" y="450" width="50" height="40" as="geometry" />
@@ -40,10 +40,10 @@
         </mxCell>
         <mxCell id="4at3JXw2Q7z8CmBnQLVK-2" value="上下级" style="endArrow=none;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="115" y="350" as="sourcePoint" />
-            <mxPoint x="90" y="330" as="targetPoint" />
+            <mxPoint x="91" y="350" as="sourcePoint" />
+            <mxPoint x="66" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="60" y="390" />
+              <mxPoint x="36" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -57,12 +57,12 @@
             <mxPoint x="-10" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4at3JXw2Q7z8CmBnQLVK-10" value="" style="endArrow=none;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="4at3JXw2Q7z8CmBnQLVK-10" value="" style="endArrow=none;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="Ja2gScva0mpdnXEOj0BG-6">
           <mxGeometry x="-0.3886" relative="1" as="geometry">
             <mxPoint x="232" y="450" as="sourcePoint" />
             <mxPoint x="115" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="450" />
+              <mxPoint x="190" y="370" />
               <mxPoint x="190" y="350" />
             </Array>
             <mxPoint as="offset" />
@@ -70,12 +70,12 @@
         </mxCell>
         <mxCell id="4at3JXw2Q7z8CmBnQLVK-11" value="1..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;fontSize=7;" connectable="0" vertex="1" parent="4at3JXw2Q7z8CmBnQLVK-10">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-3" y="-20" as="offset" />
+            <mxPoint x="-34" y="-25" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4at3JXw2Q7z8CmBnQLVK-12" value="0..*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;fontSize=7;" connectable="0" vertex="1" parent="4at3JXw2Q7z8CmBnQLVK-10">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-6" as="offset" />
+            <mxPoint x="-25" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4at3JXw2Q7z8CmBnQLVK-14" value="" style="endArrow=none;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="Ja2gScva0mpdnXEOj0BG-5" target="Ja2gScva0mpdnXEOj0BG-3">
